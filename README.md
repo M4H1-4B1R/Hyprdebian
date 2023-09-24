@@ -4,6 +4,7 @@
 
 This is my attempt at getting Hyprland (with gbar) to work on Debian stable. Only tested on my machine running intel silicon.
 Use at your own risk.
+Also I'm at noob at scripting and linux in general so expect silly mistakes.
 
 Steps =>
 1. Install Debian 12 (server install)
