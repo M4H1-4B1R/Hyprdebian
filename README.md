@@ -1,4 +1,7 @@
 # Hyprdebian
+
+![20230923_11h30m05s_grim](https://github.com/autonomuscoder/Hyprdebian/assets/112854891/26e927f0-5c0f-4560-89a1-5ce88d52301d)
+
 This is my attempt at getting Hyprland (with gbar) to work on Debian stable. Only tested on my machine running intel silicon.
 Use at your own risk.
 
